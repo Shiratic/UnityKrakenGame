@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -12,7 +13,7 @@ MonoBehaviour:
   m_Name: Sword
   m_EditorClassIdentifier: 
   ItemName: Sword
-  Icon: {fileID: 21300000, guid: d4484d350e72d0d49b4a228d0c398abf, type: 3}
+  Icon: {fileID: 21300000, guid: 197773908fbb03241bfe5c3a678ddb45, type: 3}
   StrengthBonus: 4
   AgilityBonus: 2
   IntelligenceBonus: 0
